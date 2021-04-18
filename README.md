@@ -14,7 +14,7 @@ If you are viewing my scripts to do the first assignment for this course, I hope
 - My .sh scripts are a complete mess and you can probably find better and more efficient ways of doing this assignment.
   Please, only look at my scripts if you are really stuck. I do not want to cause you any headaches trying to reverse-engineer my .sh scripts. 
   
-- Please do **NOT** copy-paste/plagarise my code. You will get penalised by _**ECS**_ and _**VUW**_. 
+- Please do **NOT** copy-paste/plagarise my scripts. You will get penalised by _**ECS**_ and _**VUW**_. 
 
 ________
 
